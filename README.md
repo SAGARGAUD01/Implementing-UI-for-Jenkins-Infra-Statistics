@@ -1,5 +1,7 @@
 # Jenkins Infra Statistics UI Implementation
 
+✈️ [Follow Sagar Gaud](https://www.linkedin.com/in/sagargaud332/)
+
 ## Project Overview
 The goal of this project is to enhance the current GitHub Pages-based UI for Jenkins Infra Statistics into a comprehensive, user-friendly, and fully-featured website. This website will offer detailed visualizations of Jenkins infrastructure statistics, providing users with insightful data presented in an accessible manner.
 
